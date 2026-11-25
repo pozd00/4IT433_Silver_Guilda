@@ -1,1 +1,11 @@
+# Řádky začínající # jsou komentáře.
+# Formát: <cesta>   <vlastník> <vlastník> ...
+ 
+# Výchozí pravidlo pro celý repozitář: schvaluje kdokoli z týmu
+*                   @pozd00 @MichalSturma @Ayamin212 @emmhat
 
+# Položky synchronizované z Fabric workspace
+/fabric/            @pozd00 @MichalSturma @Ayamin212 @emmhat
+ 
+# Nastavení repozitáře: správce a jeden zástupce
+/.github/           @pozd00 @MichalSturma
